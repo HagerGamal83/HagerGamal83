@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HagerGamal83.png" width="150" height="150" style="border-radius:50%;" />
+  <img src="profile.jpg" width="180" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Hager Gamal</h1>

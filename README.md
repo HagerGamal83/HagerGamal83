@@ -1,116 +1,78 @@
 <h1 align="center">Hi 👋, I'm Hager Gamal</h1>
 
-<h3 align="center">
-  ASP.NET Core Developer | Backend & Full-Stack Developer
-</h3>
+<h3 align="center">Full-Stack Developer | .NET Core & Angular</h3>
 
 <p align="center">
-  Passionate about building scalable, clean, and maintainable applications
-  using .NET technologies.
+  Building scalable, clean, and well-architected web applications with ASP.NET Core and Angular.
+</p>
+
+<p align="center">
+  <em>"First, understand the business logic. Then, architect the solution. Finally, write the code."</em>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-- 🎓 Fresh Graduate from Faculty of Computers & Information, Minya University
-- 💻 Specialized in Backend Development using ASP.NET Core
-- 🌐 Currently expanding my skills toward Full-Stack Development with Angular
-- 🏗️ Interested in Clean Architecture, Onion Architecture, APIs and scalable systems
-- 📚 Always learning and improving my software engineering skills
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-- C#
-- ASP.NET Core
-- Web API
-- MVC
-- Entity Framework Core
-- LINQ
-- ADO.NET
-- REST APIs
-
-### Architecture & Design
-- Clean Architecture
-- Onion Architecture
-- SOLID Principles
-- Design Patterns
-- Repository Pattern
-- Unit of Work
-- Specification Pattern
-- CQRS
-
-### Database
-- SQL Server
-- PostgreSQL
-- Entity Framework Core
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Bootstrap
-- Angular
-
-### Tools
-- Git & GitHub
-- Visual Studio
-- Postman
-- Scalar
-- Swagger
+- 🎓 Full-Stack Developer training at **ITI (Information Technology Institute)** — .NET & Angular track
+- 🧠 B.Sc. in Computer & Information Sciences, Minia University (2021–2025)
+- 🏗️ Focused on **Clean Architecture**, RESTful APIs, and JWT-secured backends
+- 🌐 Building responsive front-ends with **Angular** and **TypeScript**
+- 🤖 Interested in integrating **AI/ML** into real-world backend systems
+- 📍 Minya, Egypt — open to remote and on-site opportunities
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### ❤️ Heart Buddy
-AI-powered heart disease risk prediction system built with ASP.NET Core Web API and machine learning integration.
+**Backend**
+`C#` `ASP.NET Core (API & MVC)` `Entity Framework Core` `ASP.NET Identity` `JWT` `REST APIs`
 
-**Technologies:**  
-ASP.NET Core | C# | Entity Framework Core | SQL Server | Python | Flask | SVM
+**Architecture & Patterns**
+`Clean Architecture` `Onion Architecture` `SOLID` `CQRS` `Repository Pattern`
 
----
+**Frontend**
+`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3`
 
-### 🛒 Talabat API
-Backend REST API for managing products, users, orders and related e-commerce operations.
+**Database**
+`SQL Server` `Redis`
 
-**Technologies:**  
-ASP.NET Core Web API | C# | EF Core | SQL Server | LINQ
-
----
-
-### 💊 PharmaTrack
-Pharmacy inventory and medicine expiry management system built using Onion Architecture.
-
-**Technologies:**  
-ASP.NET Core | EF Core | SQL Server | Repository Pattern | Unit of Work | Specification Pattern
+**Tools**
+`Git` `Docker` `Swagger` `AutoMapper` `Postman` `Visual Studio` `VS Code`
 
 ---
 
-### 🛍️ E-Commerce Project
-E-commerce application with product management, categories, wishlist and user-related functionality.
+### 🚀 Featured Projects
 
-**Technologies:**  
-HTML | CSS | JavaScript | Bootstrap | REST APIs
+#### ⚙️ SmartRoutines
+A Windows system-tray app that automates desktop tasks by monitoring conditions (time, battery, Wi-Fi, idle state) and running action pipelines. Built with **.NET 8** and Clean Architecture.
+`.NET 8` `C#` `Clean Architecture`
+
+#### 🍽️ Smart Restaurant
+A full-stack restaurant management system for handling orders, menus, and real-time table tracking, with live status sync between customer and kitchen-staff views.
+`ASP.NET Core Web API` `Angular` `SignalR`
+
+#### ❤️ Heart Disease Prediction System
+Graduation project — a secured Web API that predicts heart disease risk by integrating a Python ML model, with ASP.NET Identity + JWT authentication.
+`ASP.NET Core` `EF Core` `Python` `JWT`
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HagerGamal83&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HagerGamal83&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
+  <a href="mailto:hagergamaty@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>

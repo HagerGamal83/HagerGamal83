@@ -1,16 +1,23 @@
-<h1 align="center">Hi 👋, I'm Hager Gamal</h1>
-
-<h3 align="center">Full-Stack Developer | .NET Core & Angular</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B267,50:C06C84,100:355C7D&height=200&section=header&text=Hager%20Gamal&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20Angular&descAlignY=60&descSize=20" width="100%"/>
+</p>
 
 <p align="center">
-  Building scalable, clean, and well-architected web applications with ASP.NET Core and Angular.
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=C06C84&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+Clean+Architecture;Full-Stack+with+Angular;Always+learning%2C+always+building" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=C06C84&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=355C7D" />
 </p>
 
 <p align="center">
   <em>"First, understand the business logic. Then, architect the solution. Finally, write the code."</em>
 </p>
 
----
+<hr/>
 
 ### 👩‍💻 About Me
 
@@ -21,26 +28,21 @@
 - 🤖 Interested in integrating **AI/ML** into real-world backend systems
 - 📍 Minya, Egypt — open to remote and on-site opportunities
 
----
+<hr/>
 
 ### 🛠️ Tech Stack
 
-**Backend**
-`C#` `ASP.NET Core (API & MVC)` `Entity Framework Core` `ASP.NET Identity` `JWT` `REST APIs`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,sqlserver,redis,git,docker,postman,vscode&theme=dark" />
+</p>
 
-**Architecture & Patterns**
-`Clean Architecture` `Onion Architecture` `SOLID` `CQRS` `Repository Pattern`
+**Backend:** `C#` `ASP.NET Core (API & MVC)` `Entity Framework Core` `ASP.NET Identity` `JWT` `REST APIs`
+**Architecture:** `Clean Architecture` `Onion Architecture` `SOLID` `CQRS` `Repository Pattern`
+**Frontend:** `Angular` `TypeScript` `JavaScript` `HTML5` `CSS3`
+**Database:** `SQL Server` `Redis`
+**Tools:** `Git` `Docker` `Swagger` `AutoMapper` `Postman` `Visual Studio`
 
-**Frontend**
-`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3`
-
-**Database**
-`SQL Server` `Redis`
-
-**Tools**
-`Git` `Docker` `Swagger` `AutoMapper` `Postman` `Visual Studio` `VS Code`
-
----
+<hr/>
 
 ### 🚀 Featured Projects
 
@@ -56,24 +58,39 @@ A full-stack restaurant management system for handling orders, menus, and real-t
 Graduation project — a secured Web API that predicts heart disease risk by integrating a Python ML model, with ASP.NET Identity + JWT authentication.
 `ASP.NET Core` `EF Core` `Python` `JWT`
 
----
+<hr/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<hr/>
 
 ### 📫 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/hager-gamall/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:hagergamaty@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/HagerGamal83E">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,50:C06C84,100:F7B267&height=100&section=footer" width="100%"/>
 </p>

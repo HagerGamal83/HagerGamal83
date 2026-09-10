@@ -1,16 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B267,50:C06C84,100:355C7D&height=200&section=header&text=Hager%20Gamal&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20Angular&descAlignY=60&descSize=20" width="100%"/>
-</p>
+<h1 align="center">Hi 👋, I'm Hager Gamal</h1>
 
 <p align="center">
-  <a href="https://github.com/HagerGamal83">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=C06C84&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+Clean+Architecture;Full-Stack+with+Angular;Always+learning%2C+always+building" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HagerGamal83&label=Profile%20Views&color=C06C84&style=flat" />
-  <img src="https://img.shields.io/github/followers/HagerGamal83?label=Followers&style=flat&color=355C7D" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=C06C84&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+Clean+Architecture;Full-Stack+with+Angular;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -86,11 +77,4 @@ Graduation project — a secured Web API that predicts heart disease risk by int
   <a href="mailto:hagergamaty@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/HagerGamal83">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,50:C06C84,100:F7B267&height=100&section=footer" width="100%"/>
 </p>

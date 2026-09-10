@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/HagerGamal83">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=C06C84&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+Clean+Architecture;Full-Stack+with+Angular;Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=C06C84&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=355C7D" />
+  <img src="https://komarev.com/ghpvc/?username=HagerGamal83&label=Profile%20Views&color=C06C84&style=flat" />
+  <img src="https://img.shields.io/github/followers/HagerGamal83?label=Followers&style=flat&color=355C7D" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Full-Stack Developer training at **ITI (Information Technology Institute)** — .NET & Angular track
+- 🎓 Full-Stack Developer graduate of **ITI (Information Technology Institute)** — .NET & Angular track
 - 🧠 B.Sc. in Computer & Information Sciences, Minia University (2021–2025)
 - 🏗️ Focused on **Clean Architecture**, RESTful APIs, and JWT-secured backends
 - 🌐 Building responsive front-ends with **Angular** and **TypeScript**
@@ -63,16 +63,16 @@ Graduation project — a secured Web API that predicts heart disease risk by int
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HagerGamal83&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HagerGamal83&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HagerGamal83&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HagerGamal83&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <hr/>
@@ -80,13 +80,13 @@ Graduation project — a secured Web API that predicts heart disease risk by int
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hager-gamall/">
+  <a href="https://www.linkedin.com/in/hager-gamall">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hagergamaty@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/HagerGamal83E">
+  <a href="https://github.com/HagerGamal83">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>

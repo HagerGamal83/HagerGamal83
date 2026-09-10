@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hager Gamal</h1>
+<p align="center">
+  <img src="https://github.com/HagerGamal83.png" width="150" height="150" style="border-radius:50%;" />
+</p>
+
+<h1 align="center">Hi, I'm Hager Gamal</h1>
+<h3 align="center">Full-Stack Developer | ASP.NET Core & Angular</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=C06C84&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+Clean+Architecture;Full-Stack+with+Angular;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -54,16 +59,16 @@ Graduation project — a secured Web API that predicts heart disease risk by int
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HagerGamal83&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HagerGamal83&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HagerGamal83&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HagerGamal83&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HagerGamal83&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HagerGamal83&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HagerGamal83&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HagerGamal83&theme=flat&row=1&column=6" />
 </p>
 
 <hr/>
